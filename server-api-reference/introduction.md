@@ -21,8 +21,8 @@ Comm100 RESTful API must use **https** protocol. What the API requests should st
 
 Comm100 provides two authentication methods.
 
-* [API\_key Authentication](introduction.md#api\_key-authentication)
-* [OAuth Authentication](introduction.md#oauth-authentication)
+* [API\_key Authentication](#api\_key-authentication)
+* [OAuth Authentication](#oauth-authentication)
 
 ### API\_key Authentication
 
