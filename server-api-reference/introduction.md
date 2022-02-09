@@ -1,6 +1,6 @@
 # Introduction（test）
 
-12Welcome to the Comm100 RESTful API help guide. Our APIs make it possible for you to integrate your applications with Comm100 Live Chat to achieve seamless data sharing. It is our goal to help the business to automate and enhance their customer support with innovative projects you can create using [Comm100 API.](introduction.md#the-basics)
+[12](#the-basics)Welcome to the Comm100 RESTful API help guide. Our APIs make it possible for you to integrate your applications with Comm100 Live Chat to achieve seamless data sharing. It is our goal to help the business to automate and enhance their customer support with innovative projects you can create using [Comm100 API.](introduction.md#the-basics)
 
 Note: Comm100 currently has two versions of our customer engagement platform.
 
